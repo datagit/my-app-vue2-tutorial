@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Compiler typescript
+```bash
+tsc typescript-tutorial.ts --watch
+```
